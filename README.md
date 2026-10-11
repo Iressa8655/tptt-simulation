@@ -1,5 +1,7 @@
 # Tibialis posterior tendon transfer: simulation code and results
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23301727.svg)](https://doi.org/10.5281/zenodo.23301727)
+
 Code, models and results for the study **"Window Height, Insertion Site and Route in Tibialis Posterior Tendon Transfer: A Sequential Simulation Study"** (manuscript submitted to *Foot & Ankle International*).
 
 The study treats the transfer as the sequence of decisions a surgeon makes in theatre. It sweeps the window height, then the insertion site for each route (interosseous, IO, and circumtibial, CT), then compares the routes, using the OpenSim Gait2392 model. It then simulates walking with OpenSim Moco to see which muscles take up the swing-phase dorsiflexion load.
@@ -68,4 +70,4 @@ Re-running `run_static.py` reproduces every CSV in `results/static_7cm/` exactly
 
 ## How to cite
 
-See `CITATION.cff`, or use the citation of the paper once published.
+Archived on Zenodo, DOI [10.5281/zenodo.23301727](https://doi.org/10.5281/zenodo.23301727). See `CITATION.cff`, or use the citation of the paper once published.

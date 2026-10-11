@@ -6,6 +6,9 @@ authors:
   - family-names: Cheng
     given-names: I-Han
 license: MIT
+version: 1.0.0
+date-released: 2026-10-11
+doi: 10.5281/zenodo.23301727
 repository-code: "https://github.com/Iressa8655/tptt-simulation"
 keywords:
   - tibialis posterior tendon transfer
