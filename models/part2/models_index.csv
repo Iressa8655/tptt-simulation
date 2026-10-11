@@ -1,0 +1,10 @@
+file,configs,route,position,insertion,palsy,supination_arm_0deg_mm,supination_arm_14deg_mm,dorsi_arm_14deg_mm,reload_difference_mm,paralysed_at_1N
+V2_P2_A_IO_pos2.75_intermediate_cuneiform_to_lateral_cuneiform.osim,A_IO,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,none,-8.7286,-7.1044,32.3706,0.0,True
+V2_P2_A_IO_pos2.75_intermediate_cuneiform_to_lateral_cuneiform_deepPalsy.osim,A_IO,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,deep,-8.7286,-7.1044,32.3706,0.0,True
+V2_P2_A_IO_pos2.75_intermediate_cuneiform_to_lateral_cuneiform_commonPalsy.osim,A_IO,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,common,-8.7286,-7.1044,32.3706,0.0,True
+V2_P2_AB_CT_pos1.00_medial_cuneiform.osim,A_CT and B_CT,CT,1.0,medial_cuneiform,none,7.3272,7.3312,24.6549,0.0,True
+V2_P2_AB_CT_pos1.00_medial_cuneiform_deepPalsy.osim,A_CT and B_CT,CT,1.0,medial_cuneiform,deep,7.3272,7.3312,24.6549,0.0,True
+V2_P2_AB_CT_pos1.00_medial_cuneiform_commonPalsy.osim,A_CT and B_CT,CT,1.0,medial_cuneiform,common,7.3272,7.3312,24.6549,0.0,True
+V2_P2_B_IO_pos1.00_medial_cuneiform.osim,B_IO,IO,1.0,medial_cuneiform,none,-9.0804,-11.4329,26.523,0.0,True
+V2_P2_B_IO_pos1.00_medial_cuneiform_deepPalsy.osim,B_IO,IO,1.0,medial_cuneiform,deep,-9.0804,-11.4329,26.523,0.0,True
+V2_P2_B_IO_pos1.00_medial_cuneiform_commonPalsy.osim,B_IO,IO,1.0,medial_cuneiform,common,-9.0804,-11.4329,26.523,0.0,True

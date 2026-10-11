@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+opensim.log
+.ipynb_checkpoints/
+output/

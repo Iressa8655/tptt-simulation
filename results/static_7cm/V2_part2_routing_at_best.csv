@@ -1,0 +1,9 @@
+config,route,position,insertion,angle_deg,dorsi_arm_mm,supination_arm_mm,supination_moment_Nm,inversion_component_mm,adduction_component_mm,wasted_pct,net_none_Nm,net_deep_palsy_Nm,net_common_palsy_Nm
+A_IO,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,0,33.6893,-8.7286,-11.5573,-10.4088,-11.1413,37.211,-16.5997,-18.4382,17.5041
+A_IO,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,14,32.3706,-7.1044,-6.6492,-8.9918,-9.9296,35.3881,-7.9472,-10.0718,26.6956
+A_CT,CT,1.0,medial_cuneiform,0,29.1351,7.3272,9.4272,2.7083,-0.6391,11.0699,4.3848,2.5463,38.4886
+A_CT,CT,1.0,medial_cuneiform,14,24.6549,7.3312,7.1345,3.1819,0.143,12.9202,5.8365,3.7119,40.4793
+B_IO,IO,1.0,medial_cuneiform,0,30.471,-9.0804,-11.6371,-10.3478,-10.794,38.8676,-16.6795,-18.518,17.4243
+B_IO,IO,1.0,medial_cuneiform,14,26.523,-11.4329,-10.8461,-11.785,-11.5296,43.7096,-12.1441,-14.2686,22.4988
+B_CT,CT,1.0,medial_cuneiform,0,29.1351,7.3272,9.4272,2.7083,-0.6391,11.0699,4.3848,2.5463,38.4886
+B_CT,CT,1.0,medial_cuneiform,14,24.6549,7.3312,7.1345,3.1819,0.143,12.9202,5.8365,3.7119,40.4793

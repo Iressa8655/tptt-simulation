@@ -1,0 +1,10 @@
+file,route,position,insertion,height_cm,bend_window_deg,bend_retinaculum_deg,dorsi_arm_14deg_mm,supination_arm_14deg_mm,reload_difference_mm
+V2_P3_IO_pos2.75_h04.00cm.osim,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,4.0,144.07,161.17,32.3706,-7.1044,0.0
+V2_P3_IO_pos2.75_h07.50cm.osim,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,7.5,158.6,167.78,32.3706,-7.1044,0.0
+V2_P3_IO_pos2.75_h10.00cm.osim,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,10.0,163.08,166.61,32.3706,-7.1044,0.0
+V2_P3_IO_pos2.75_h12.00cm.osim,IO,2.75,intermediate_cuneiform_to_lateral_cuneiform,12.0,165.04,165.35,32.3706,-7.1044,0.0
+V2_P3_CT_pos1.00_h04.00cm.osim,CT,1.0,medial_cuneiform,4.0,141.59,147.98,24.6549,7.3312,0.0
+V2_P3_CT_pos1.00_h05.15cm.osim,CT,1.0,medial_cuneiform,5.15,147.95,147.92,24.6549,7.3312,0.0
+V2_P3_CT_pos1.00_h07.50cm.osim,CT,1.0,medial_cuneiform,7.5,155.56,146.12,24.6549,7.3312,0.0
+V2_P3_CT_pos1.00_h10.00cm.osim,CT,1.0,medial_cuneiform,10.0,159.46,144.21,24.6549,7.3312,0.0
+V2_P3_CT_pos1.00_h12.00cm.osim,CT,1.0,medial_cuneiform,12.0,160.85,143.01,24.6549,7.3312,0.0

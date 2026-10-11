@@ -1,0 +1,5 @@
+# OpenSim 4.6 itself comes from conda: conda install -c opensim-org opensim=4.6
+numpy
+pandas
+matplotlib
+tqdm

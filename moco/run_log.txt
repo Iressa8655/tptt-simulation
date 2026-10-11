@@ -1,0 +1,35 @@
+=== run ['IO', 'CT'] opensim version 4.6-2026-06-22-85aaf64, build date 18:15:41 Jun 22 2026
+swing 0.480 to 0.836 s
+[IO] L_mt at neutral 341.83 mm, tendon slack 334.27 -> 297.98 mm
+[IO] tibpost_l ankle moment arm at -20 deg: +33.39 mm (+ = dorsiflexion)
+[IO] tibpost_l ankle moment arm at +0 deg: +35.88 mm (+ = dorsiflexion)
+[IO] tibpost_l ankle moment arm at +14 deg: +35.79 mm (+ = dorsiflexion)
+[IO] tibpost_l ankle moment arm at +20 deg: +34.84 mm (+ = dorsiflexion)
+[IO] solved, success=True, objective=1.6002
+{'condition': 'IO', 'muscle': 'tibpost_l', 'peak_swing_force_N': 414.36, 'peak_stride_force_N': 446.02, 'mean_swing_ankle_moment_Nm': 9.051, 'peak_swing_ankle_moment_Nm': 14.964, 'peak_swing_activation': 0.328, 'moment_arm_min_mm': 33.93, 'moment_arm_max_mm': 36.11}
+{'condition': 'IO', 'muscle': 'edl_l', 'peak_swing_force_N': 209.59, 'peak_stride_force_N': 209.59, 'mean_swing_ankle_moment_Nm': 2.156, 'peak_swing_ankle_moment_Nm': 7.627, 'peak_swing_activation': 0.43, 'moment_arm_min_mm': 36.39, 'moment_arm_max_mm': 42.02}
+{'condition': 'IO', 'muscle': 'ehl_l', 'peak_swing_force_N': 25.65, 'peak_stride_force_N': 25.65, 'mean_swing_ankle_moment_Nm': 0.536, 'peak_swing_ankle_moment_Nm': 0.989, 'peak_swing_activation': 0.115, 'moment_arm_min_mm': 38.57, 'moment_arm_max_mm': 45.31}
+{'condition': 'IO', 'muscle': 'perlong_l', 'peak_swing_force_N': 15.27, 'peak_stride_force_N': 50.65, 'mean_swing_ankle_moment_Nm': -0.168, 'peak_swing_ankle_moment_Nm': -0.148, 'peak_swing_activation': 0.013, 'moment_arm_min_mm': -13.38, 'moment_arm_max_mm': -10.63}
+{'condition': 'IO', 'muscle': 'perbrev_l', 'peak_swing_force_N': 8.98, 'peak_stride_force_N': 11.97, 'mean_swing_ankle_moment_Nm': -0.077, 'peak_swing_ankle_moment_Nm': -0.067, 'peak_swing_activation': 0.016, 'moment_arm_min_mm': -12.08, 'moment_arm_max_mm': -8.59}
+{'condition': 'IO', 'muscle': 'soleus_l', 'peak_swing_force_N': 100.6, 'peak_stride_force_N': 1685.86, 'mean_swing_ankle_moment_Nm': -3.604, 'peak_swing_ankle_moment_Nm': -2.734, 'peak_swing_activation': 0.01, 'moment_arm_min_mm': -55.01, 'moment_arm_max_mm': -40.28}
+{'condition': 'IO', 'muscle': 'gasmed_l', 'peak_swing_force_N': 58.21, 'peak_stride_force_N': 1157.02, 'mean_swing_ankle_moment_Nm': -2.286, 'peak_swing_ankle_moment_Nm': -0.924, 'peak_swing_activation': 0.017, 'moment_arm_min_mm': -55.66, 'moment_arm_max_mm': -46.26}
+{'condition': 'IO', 'muscle': 'gaslat_l', 'peak_swing_force_N': 294.89, 'peak_stride_force_N': 418.32, 'mean_swing_ankle_moment_Nm': -4.269, 'peak_swing_ankle_moment_Nm': -0.541, 'peak_swing_activation': 0.225, 'moment_arm_min_mm': -56.77, 'moment_arm_max_mm': -45.38}
+{'condition': 'IO', 'muscle': 'fdl_l', 'peak_swing_force_N': 7.2, 'peak_stride_force_N': 8.65, 'mean_swing_ankle_moment_Nm': -0.07, 'peak_swing_ankle_moment_Nm': -0.055, 'peak_swing_activation': 0.016, 'moment_arm_min_mm': -15.77, 'moment_arm_max_mm': -6.5}
+{'condition': 'IO', 'muscle': 'fhl_l', 'peak_swing_force_N': 12.3, 'peak_stride_force_N': 41.27, 'mean_swing_ankle_moment_Nm': -0.204, 'peak_swing_ankle_moment_Nm': -0.167, 'peak_swing_activation': 0.013, 'moment_arm_min_mm': -22.64, 'moment_arm_max_mm': -12.85}
+[CT] L_mt at neutral 377.39 mm, tendon slack 334.27 -> 333.54 mm
+[CT] tibpost_l ankle moment arm at -20 deg: +32.95 mm (+ = dorsiflexion)
+[CT] tibpost_l ankle moment arm at +0 deg: +32.26 mm (+ = dorsiflexion)
+[CT] tibpost_l ankle moment arm at +14 deg: +28.67 mm (+ = dorsiflexion)
+[CT] tibpost_l ankle moment arm at +20 deg: +26.12 mm (+ = dorsiflexion)
+[CT] solved, success=True, objective=1.6049
+{'condition': 'CT', 'muscle': 'tibpost_l', 'peak_swing_force_N': 417.5, 'peak_stride_force_N': 430.32, 'mean_swing_ankle_moment_Nm': 8.297, 'peak_swing_ankle_moment_Nm': 12.875, 'peak_swing_activation': 0.328, 'moment_arm_min_mm': 27.0, 'moment_arm_max_mm': 33.19}
+{'condition': 'CT', 'muscle': 'edl_l', 'peak_swing_force_N': 209.5, 'peak_stride_force_N': 209.5, 'mean_swing_ankle_moment_Nm': 2.345, 'peak_swing_ankle_moment_Nm': 7.624, 'peak_swing_activation': 0.43, 'moment_arm_min_mm': 36.39, 'moment_arm_max_mm': 42.02}
+{'condition': 'CT', 'muscle': 'ehl_l', 'peak_swing_force_N': 25.62, 'peak_stride_force_N': 25.62, 'mean_swing_ankle_moment_Nm': 0.585, 'peak_swing_ankle_moment_Nm': 0.988, 'peak_swing_activation': 0.115, 'moment_arm_min_mm': 38.57, 'moment_arm_max_mm': 45.31}
+{'condition': 'CT', 'muscle': 'perlong_l', 'peak_swing_force_N': 15.46, 'peak_stride_force_N': 50.65, 'mean_swing_ankle_moment_Nm': -0.167, 'peak_swing_ankle_moment_Nm': -0.146, 'peak_swing_activation': 0.013, 'moment_arm_min_mm': -13.38, 'moment_arm_max_mm': -10.63}
+{'condition': 'CT', 'muscle': 'perbrev_l', 'peak_swing_force_N': 9.17, 'peak_stride_force_N': 12.07, 'mean_swing_ankle_moment_Nm': -0.077, 'peak_swing_ankle_moment_Nm': -0.067, 'peak_swing_activation': 0.017, 'moment_arm_min_mm': -12.08, 'moment_arm_max_mm': -8.59}
+{'condition': 'CT', 'muscle': 'soleus_l', 'peak_swing_force_N': 100.6, 'peak_stride_force_N': 1683.43, 'mean_swing_ankle_moment_Nm': -3.601, 'peak_swing_ankle_moment_Nm': -2.732, 'peak_swing_activation': 0.01, 'moment_arm_min_mm': -55.01, 'moment_arm_max_mm': -40.28}
+{'condition': 'CT', 'muscle': 'gasmed_l', 'peak_swing_force_N': 55.67, 'peak_stride_force_N': 1156.58, 'mean_swing_ankle_moment_Nm': -2.244, 'peak_swing_ankle_moment_Nm': -0.925, 'peak_swing_activation': 0.011, 'moment_arm_min_mm': -55.66, 'moment_arm_max_mm': -46.26}
+{'condition': 'CT', 'muscle': 'gaslat_l', 'peak_swing_force_N': 266.72, 'peak_stride_force_N': 418.22, 'mean_swing_ankle_moment_Nm': -3.802, 'peak_swing_ankle_moment_Nm': -0.543, 'peak_swing_activation': 0.21, 'moment_arm_min_mm': -56.77, 'moment_arm_max_mm': -45.38}
+{'condition': 'CT', 'muscle': 'fdl_l', 'peak_swing_force_N': 7.34, 'peak_stride_force_N': 8.75, 'mean_swing_ankle_moment_Nm': -0.07, 'peak_swing_ankle_moment_Nm': -0.055, 'peak_swing_activation': 0.016, 'moment_arm_min_mm': -15.77, 'moment_arm_max_mm': -6.5}
+{'condition': 'CT', 'muscle': 'fhl_l', 'peak_swing_force_N': 12.31, 'peak_stride_force_N': 41.26, 'mean_swing_ankle_moment_Nm': -0.203, 'peak_swing_ankle_moment_Nm': -0.165, 'peak_swing_activation': 0.013, 'moment_arm_min_mm': -22.64, 'moment_arm_max_mm': -12.85}
+=== done
