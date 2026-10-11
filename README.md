@@ -37,7 +37,7 @@ An interactive planner built on the same engine is a separate project, at [iress
 ## How to run it
 
 1. Install OpenSim 4.6 with its Python package ([conda package](https://anaconda.org/opensim-org/opensim)), then `pip install -r requirements.txt`.
-2. Static steps, about 20 minutes on a laptop.
+2. Static steps.
    ```
    python run_static.py output --height 7.0 --geometry "C:\OpenSim 4.6\Geometry"
    python peroneal_rescale.py output
